@@ -27,7 +27,12 @@ h2 {
 	margin: 0;
 	line-height: 21px;
 	color: #434343;
-	margin-bottom: 5px;
+}
+
+h6 {
+	text-transform: uppercase;
+	color: #888;
+	margin: 0 0 5px 0;
 }
 
 #social {
